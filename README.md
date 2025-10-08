@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Chamika Akalanka
 
-<!--
-**chamiya70/chamiya70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Undergraduate Student | Java & Web Developer | Software Enthusiast**
 
-Here are some ideas to get you started:
+I’m passionate about building robust, scalable web applications and learning modern software engineering practices. Currently exploring full-stack development with **Java, Spring Boot, and React**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Technologies
+- **Languages:** Java, JavaScript, HTML, CSS, SQL  
+- **Frameworks:** Spring Boot, React, JSP/Servlets  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools:** Git, Eclipse, IntelliJ, Visual Studio Code, Tomcat  
+
+---
+
+## 📘 Projects
+### 🎯 [Role-Based Library System](#)
+A Java web application using **JSP, Servlets, MVC**, and **MySQL** with **Admin/Student** roles.
+
+### 🗓️ [Event Registration System](#)
+Full-stack web app for event management with **JSP, Servlets**, and **Tomcat**.
+
+---
+
+## 📈 GitHub Stats
+![Chamika's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
