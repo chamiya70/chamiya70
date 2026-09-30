@@ -14,12 +14,7 @@ I’m passionate about building robust, scalable web applications and learning m
 
 ---
 
-## 📘 Projects
-### 🎯 [Role-Based Library System](#)
-A Java web application using **JSP, Servlets, MVC**, and **MySQL** with **Admin/Student** roles.
 
-### 🗓️ [Event Registration System](#)
-Full-stack web app for event management with **JSP, Servlets**, and **Tomcat**.
 
 ---
 
